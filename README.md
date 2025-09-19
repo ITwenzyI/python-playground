@@ -1,2 +1,2 @@
-# python-fastapi-playground
-Just lerning FastAPI in python :)
+# python-playground
+Testing some stuff in Python
