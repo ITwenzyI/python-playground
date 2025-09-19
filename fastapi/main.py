@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-from typing import Optional
 from typing import List
 from fastapi import Query
 
